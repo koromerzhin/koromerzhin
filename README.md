@@ -35,11 +35,16 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
-## ⚡ GitHub Stats
+## Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koromerzhin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **koromerzhin/koromerzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
