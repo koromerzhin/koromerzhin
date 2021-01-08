@@ -40,6 +40,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch)
 ![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)
 ![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)
+![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)
 
 ## Servers
 
@@ -77,16 +78,28 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
+![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora)
+![Arch linux](https://img.shields.io/badge/Arch%20linux-black?style=for-the-badge&logo=arch%20linux)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry-Pi)
+
+## Browers
+
+![Firefox](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=firefox)
+![Google Chrome](https://img.shields.io/badge/Google%20chrome-black?style=for-the-badge&logo=google-chrome)
+
+## IDE
+
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![Atom](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)
 
 ## Others
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?style=for-the-badge&logo=apollo-graphql)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=for-the-badge&logo=openssl)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=for-the-badge&logo=google-chrome)
 
 ## Stats
 
