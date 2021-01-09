@@ -104,6 +104,13 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ## Stats
 
 <!--START_SECTION:waka-->
+```text
+PHP              7 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   43.09 % 
+Blade Template   5 hrs 35 mins   ████████▒░░░░░░░░░░░░░░░░   33.23 % 
+JSON             1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+YAML             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Other            27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+```
 <!--END_SECTION:waka-->
 
 [![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
