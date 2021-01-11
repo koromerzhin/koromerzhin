@@ -24,7 +24,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ## CSS
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font%20awesome&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
@@ -60,22 +60,22 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ## CI
 
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Github actions](https://img.shields.io/badge/Github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
+![Github actions](https://img.shields.io/badge/Github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## Gaming
 
 ![EA](https://img.shields.io/badge/EA-black?style=for-the-badge&logo=ea&logoColor=white)
-![Epic games](https://img.shields.io/badge/Epic%20games-313131?style=for-the-badge&logo=epic%20games&logoColor=white)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo%20switch-E60012?style=for-the-badge&logo=nintendo%20switch&logoColor=white)
+![Epic games](https://img.shields.io/badge/Epic%20games-313131?style=for-the-badge&logo=epic-games&logoColor=white)
+![Nintendo Switch](https://img.shields.io/badge/Nintendo%20switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Nintendo](https://img.shields.io/badge/Nintendo-8F8F8F?style=for-the-badge&logo=nintendo&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation%204&logoColor=white)
+![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![XBOX 360](https://img.shields.io/badge/XBOX%20360-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## Computers
 
-![Arch linux](https://img.shields.io/badge/Arch%20linux-7?style=for-the-badge&logo=arch%20linux&logoColor=white)
+![Arch linux](https://img.shields.io/badge/Arch%20linux-7?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -83,18 +83,18 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows%20xp&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-008080?style=for-the-badge&logo=windows%20xp&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
+![Windows 95](https://img.shields.io/badge/Windows%2095-008080?style=for-the-badge&logo=windows-xp&logoColor=white)
 
 ## Browers
 
-![Google Chrome](https://img.shields.io/badge/Google%20chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
 
 ## IDE
 
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual-Studio-Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Tools
 
@@ -105,7 +105,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs%20studio&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 ![Libreoffice](https://img.shields.io/badge/Libreoffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)
@@ -119,8 +119,8 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft%20teams&logoColor=white)
-![Nintendo Network](https://img.shields.io/badge/Nintendo%20Network-FF7D00?style=for-the-badge&logo=nintendo%20network&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Nintendo Network](https://img.shields.io/badge/Nintendo%20Network-FF7D00?style=for-the-badge&logo=nintendo-network&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)
