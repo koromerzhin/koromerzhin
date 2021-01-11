@@ -21,13 +21,14 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-
 ## CSS
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font%20awesome&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+
 ## Version Control
 
 ![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -41,7 +42,10 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ## Databases
@@ -76,6 +80,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows%20xp&logoColor=white)
@@ -93,13 +98,21 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 
 ## Tools
 
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Libreoffice](https://img.shields.io/badge/Libreoffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-b721412ack?style=for-the-badge&logo=openssl&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?style=for-the-badge&logo=renovatebot&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs%20studio&logoColor=white)
+![Libreoffice](https://img.shields.io/badge/Libreoffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ## Social
 
