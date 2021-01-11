@@ -4,102 +4,103 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 
 ## Programming languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-black?style=for-the-badge&logo=Node.js)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=for-the-badge&logo=Node.js)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
 ## Frameworks
 
-![Vue.js](https://img.shields.io/badge/Vuejs-black?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 ![Jquery](https://img.shields.io/badge/Jquery-black?style=for-the-badge&logo=jquery)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![Vue.js](https://img.shields.io/badge/Vuejs-black?style=for-the-badge&logo=vue.js)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 
 ## Version Control
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![BitBucket](https://img.shields.io/badge/BitBucket-black?style=for-the-badge&logo=bitbucket)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/BitBucket-black?style=for-the-badge&logo=bitbucket)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ## Social
 
-![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)
 ![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
-![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok)
-![Snapchat](https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=snapchat)
-![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)
-![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch)
-![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)
+![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)
 ![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)
 ![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)
+![Snapchat](https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=snapchat)
+![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok)
+![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch)
+![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)
+![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)
 
 ## Servers
 
-![Apache](https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-black?style=for-the-badge&logo=nextcloud)
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Vagrant](https://img.shields.io/badge/Vagrant-black?style=for-the-badge&logo=vagrant)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Apache](https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-black?style=for-the-badge&logo=nextcloud)
+![Vagrant](https://img.shields.io/badge/Vagrant-black?style=for-the-badge&logo=vagrant)
 
 ## Databases
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
 
 ## CI
 
-![Github actions](https://img.shields.io/badge/Github%20actions-black?style=for-the-badge&logo=github%20actions)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
+![Github actions](https://img.shields.io/badge/Github%20actions-black?style=for-the-badge&logo=github%20actions)
 
 ## Gaming
 
-![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam)
-![Epic games](https://img.shields.io/badge/Epic%20games-black?style=for-the-badge&logo=epic%20games)
-![XBOX](https://img.shields.io/badge/XBOX-black?style=for-the-badge&logo=xbox)
 ![EA](https://img.shields.io/badge/EA-black?style=for-the-badge&logo=ea)
-![Playstation](https://img.shields.io/badge/Playstation-black?style=for-the-badge&logo=playstation)
+![Epic games](https://img.shields.io/badge/Epic%20games-black?style=for-the-badge&logo=epic%20games)
 ![Nintendo](https://img.shields.io/badge/Nintendo-black?style=for-the-badge&logo=nintendo)
+![Playstation](https://img.shields.io/badge/Playstation-black?style=for-the-badge&logo=playstation)
+![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam)
+![XBOX](https://img.shields.io/badge/XBOX-black?style=for-the-badge&logo=xbox)
 
 ## Computers
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Arch linux](https://img.shields.io/badge/Arch%20linux-black?style=for-the-badge&logo=arch%20linux)
 ![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
 ![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora)
-![Arch linux](https://img.shields.io/badge/Arch%20linux-black?style=for-the-badge&logo=arch%20linux)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry-Pi)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
 
 ## Browers
 
-![Firefox](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=firefox)
 ![Google Chrome](https://img.shields.io/badge/Google%20chrome-black?style=for-the-badge&logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=firefox)
 
 ## IDE
 
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 ![Atom](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 
 ## Others
 
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?style=for-the-badge&logo=apollo-graphql)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=for-the-badge&logo=openssl)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ## Stats
 
