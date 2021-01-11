@@ -94,6 +94,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ## Others
 
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Libreoffice](https://img.shields.io/badge/Libreoffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-b721412ack?style=for-the-badge&logo=openssl&logoColor=white)
