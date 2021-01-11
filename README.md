@@ -31,18 +31,6 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-## Social
-
-![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
-![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)
-![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)
-![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)
-![Snapchat](https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=snapchat)
-![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok)
-![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch)
-![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)
-![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)
-
 ## Servers
 
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
@@ -101,6 +89,18 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=for-the-badge&logo=openssl)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+
+## Social
+
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
+![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)
+![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)
+![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)
+![Snapchat](https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=snapchat)
+![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok)
+![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch)
+![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)
+![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)
 
 ## Stats
 
