@@ -142,9 +142,9 @@ Other        45 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koromerzhin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koromerzhin&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
