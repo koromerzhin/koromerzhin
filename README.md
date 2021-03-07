@@ -134,11 +134,11 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       8 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.56 % 
-PHP          4 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-YAML         3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Makefile     3 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-JavaScript   2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JavaScript   7 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   32.70 % 
+PHP          4 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 % 
+Vue.js       4 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.76 % 
+JSON         1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+YAML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 ```
 <!--END_SECTION:waka-->
 
