@@ -139,9 +139,11 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ## Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
