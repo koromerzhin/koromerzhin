@@ -1,0 +1,27 @@
+[submodule "docker"]
+	path = docker
+	url = git@github.com:koromerzhin/docker.git
+[submodule "labstag"]
+	path = labstag
+	url = git@github.com:koromerzhin/labstag.git
+[submodule "lampy"]
+	path = lampy
+	url = git@github.com:koromerzhin/lampy.git
+[submodule "repocheck"]
+	path = repocheck
+	url = git@github.com:koromerzhin/repocheck.git
+[submodule "streamchat"]
+	path = streamchat
+	url = git@github.com:koromerzhin/streamchat.git
+[submodule "userscripts"]
+	path = userscripts
+	url = git@github.com:koromerzhin/userscripts.git
+[submodule "webcrawler"]
+	path = webcrawler
+	url = git@github.com:koromerzhin/webcrawler.git
+[submodule "webserver"]
+	path = webserver
+	url = git@github.com:koromerzhin/webserver.git
+[submodule "js-commands"]
+	path = js-commands
+	url = git@github.com:koromerzhin/js-commands.git

@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Martial Le TOULLEC, people call me Koromerzhin, 
+I am Martial Le TOULLEC, people call me Koromerzhin,
 
 ## Programming languages
 
@@ -14,7 +14,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 
 ## Frameworks
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![docker](https://img.shields.io/badge/docker-DD0031?style=for-the-badge&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-FF2D20?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -136,6 +136,24 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+## Mes projects
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+| projet | description | Continuous Integration |
+|--|--|--|
+| docker | docker | [![Continuous Integration](https://github.com/koromerzhin/docker/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/docker) |
+| docker | js-commands | [![Continuous Integration](https://github.com/koromerzhin/js-commands/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/js-commands) |
+| labstag | labstag | [![Continuous Integration](https://github.com/koromerzhin/labstag/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/labstag) |
+| lampy | lampy | [![Continuous Integration](https://github.com/koromerzhin/lampy/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/lampy) |
+| repocheck | repocheck | [![Continuous Integration](https://github.com/koromerzhin/repocheck/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/repocheck) |
+| streamchat | streamchat | [![Continuous Integration](https://github.com/koromerzhin/streamchat/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/streamchat) |
+| userscripts | userscripts | [![Continuous Integration](https://github.com/koromerzhin/userscripts/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/userscripts) |
+| webcrawler | webcrawler | [![Continuous Integration](https://github.com/koromerzhin/webcrawler/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/webcrawler) |
+| webserver | webserver | [![Continuous Integration](https://github.com/koromerzhin/webserver/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/webserver) |
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 ## Stats
 
 <!--START_SECTION:waka-->
@@ -149,20 +167,3 @@ No activity tracked
 [![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koromerzhin&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**koromerzhin/koromerzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

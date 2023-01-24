@@ -1,0 +1,22 @@
+{
+  "name": "koromerzhin",
+  "version": "1.0.0",
+  "description": "I am Martial Le TOULLEC, people call me Koromerzhin,",
+  "scripts": {
+    "lint:markdown": "markdownlint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koromerzhin/koromerzhin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koromerzhin/koromerzhin/issues"
+  },
+  "homepage": "https://github.com/koromerzhin/koromerzhin#readme",
+  "dependencies": {
+    "korojscommands": "^1.2.7"
+  }
+}
