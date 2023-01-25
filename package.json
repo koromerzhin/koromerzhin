@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/koromerzhin/koromerzhin#readme",
   "dependencies": {
-    "korojscommands": "^1.2.7"
+    "korojscommands": "^1.2.11"
   }
 }
