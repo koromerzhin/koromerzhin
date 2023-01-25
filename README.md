@@ -143,7 +143,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 | projet | description | Continuous Integration |
 |--|--|--|
 | docker | docker | [![Continuous Integration](https://github.com/koromerzhin/docker/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/docker) |
-| docker | js-commands | [![Continuous Integration](https://github.com/koromerzhin/js-commands/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/js-commands) |
+| js-commands | js-commands | [![Continuous Integration](https://github.com/koromerzhin/js-commands/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/js-commands) |
 | labstag | labstag | [![Continuous Integration](https://github.com/koromerzhin/labstag/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/labstag) |
 | lampy | lampy | [![Continuous Integration](https://github.com/koromerzhin/lampy/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/lampy) |
 | repocheck | repocheck | [![Continuous Integration](https://github.com/koromerzhin/repocheck/workflows/ci/badge.svg?branch=develop)](https://www.github.com/koromerzhin/repocheck) |
