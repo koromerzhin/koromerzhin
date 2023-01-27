@@ -159,7 +159,8 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Twig                       2 mins          ███████████████████████▒░   93.39 %
+Nginx configuration file   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
