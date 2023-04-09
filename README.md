@@ -159,9 +159,9 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        6 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.77 %
-Twig                       2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Other                      1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+PHP                        5 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.30 %
+Twig                       2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Other                      1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 ```
 
 <!--END_SECTION:waka-->
