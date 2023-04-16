@@ -159,9 +159,9 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        6 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   47.05 %
-Nginx configuration file   2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Other                      1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+PHP                        5 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.65 %
+Nginx configuration file   1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Other                      1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 ```
 
 <!--END_SECTION:waka-->
