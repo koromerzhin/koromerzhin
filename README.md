@@ -159,10 +159,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil      2 mins          █████████████░░░░░░░░░░░░   51.53 %
-Diff       1 min           ████████▓░░░░░░░░░░░░░░░░   34.28 %
-JSON       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Assembly   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
