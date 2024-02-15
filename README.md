@@ -76,9 +76,7 @@ I am Martial Le TOULLEC, people call me Koromerzhin,
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo%20switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Nintendo](https://img.shields.io/badge/Nintendo-8F8F8F?style=for-the-badge&logo=nintendo&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![XBOX 360](https://img.shields.io/badge/XBOX%20360-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## Computers
 
