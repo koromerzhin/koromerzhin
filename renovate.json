@@ -1,3 +1,6 @@
 {
-  "extends": ["config:base", ":dependencyDashboard"]
+  "extends": [
+    "config:recommended",
+    ":dependencyDashboard"
+  ]
 }
