@@ -25,3 +25,6 @@
 [submodule "js-commands"]
 	path = js-commands
 	url = git@github.com:koromerzhin/js-commands.git
+[submodule "taskfiles"]
+	path = taskfiles
+	url = git@github.com:koromerzhin/taskfiles.git
