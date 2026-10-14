@@ -38,7 +38,9 @@ tasks:
     - task: lint:md
       vars:
         IGNORE_DIR: "taskfiles"
+    - task: lint:shell
     - task: lint:action
+    - task: lint:docker
 
   info:
     desc: "Affiche les informations du projet avec les variables d'environnement"

@@ -2,17 +2,38 @@ name: ci
 on: [push]
 jobs:
   tests:
-    runs-on: ${{ matrix.operating-system }}
-    strategy:
-      fail-fast: false
-      matrix:
-        operating-system: [ubuntu-22.04]
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v7
         with:
           submodules: recursive
-      - name: Install npm dependencies
-        run: npm install
-      - name: linter readme.md
-        run: npm run lint:markdown
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+          cache-dependency-path: 'package-lock.json'
+
+      - name: Setup Task
+        uses: go-task/setup-task@v2
+
+      - name: Setup Go (requis par lint:action)
+        uses: actions/setup-go@v6
+        with:
+          go-version: stable
+
+      - name: Setup Python YAML lib (requis par lint:shell)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq python3-yaml
+
+      # Note : pas de actions/cache sur node_modules — setup-node met
+      # déjà en cache le cache npm, et `npm ci` rend tout node_modules
+      # restauré obsolète/dangereux.
+      - name: Install dependencies
+        run: npm ci
+
+      - name: lint all
+        run: task lint:all

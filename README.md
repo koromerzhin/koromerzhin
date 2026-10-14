@@ -165,3 +165,17 @@ No activity tracked
 [![Koromerzhin's github stats](https://github-readme-stats.vercel.app/api?username=koromerzhin&count_private=true&show_icons=true&theme=highcontrast&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koromerzhin&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+
+## Taskfiles (bac à sable)
+
+Au-delà du profil, ce dépôt héberge le sous-module
+[`taskfiles/`](https://github.com/koromerzhin/taskfiles) — la boîte à
+outils [Task](https://taskfile.dev/) partagée — utilisée ici en
+démonstration et en test des releases :
+
+```sh
+task --list
+task lint:all
+```
+
+Documentation complète : [koromerzhin/taskfiles](https://github.com/koromerzhin/taskfiles).
